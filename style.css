@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0px;
+
+}
+body{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    color: black;
+    margin: 40px 50px 30px;
+}
+.btn{
+width: 10%;
+max-width: 10%;
+margin:30px 30px 30px 50px;
+height: 50px;
+border: 3px solid black;
+color: black;
+font-size: 22px;
+white-space: nowrap;  /* Prevent text from wrapping */
+overflow: hidden;  /* Hide overflow */
+text-overflow: ellipsis;  /* Add ellipsis for overflow text */
+
+
+}
+#grey{
+    background-color: gray;
+}
+#Purple{
+    background-color: purple;
+}
+#yellow{
+    background-color: rgb(183, 183, 58);
+}
+#pink{
+    background-color: rgb(167, 81, 95);
+}
